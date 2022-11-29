@@ -182,4 +182,4 @@ alert(s);
 
 *git remote add origin* - **фиксация ветки в удаленном репозитории**
 
-*git branch -M <branch_name>* - **изменение названия основной вестки**
+*git branch -M <branch_name>* - **изменение названия основной ветки**
